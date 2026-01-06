@@ -44,19 +44,14 @@ python hangman.py
 
 ---
 
-## 🖼️ Screenshots
+## Screenshots
 
-### Game Start
+![Game Start](Hangman/screenshots/start.png)
 
-![Game Start](screenshots/start.png)
+![Gameplay](Hangman/screenshots/gameplay.png)
 
-### Guessing Letters
+![Game Over](Hangman/screenshots/gameover.png)
 
-![Gameplay](screenshots/gameplay.png)
-
-### Game Over
-
-![Game Over](screenshots/gameover.png)
 
 
 ## 📂 Project Structure
